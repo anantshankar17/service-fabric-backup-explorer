@@ -23,10 +23,7 @@
     <PackageReference Include="MSTest.TestFramework" Version="3.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.ServiceFabric.Tools.ReliabilitySimulator" Version="9.1.1833-beta" />
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.ServiceFabric.Data.Interfaces.V2" Version="6.1.1833" />
+    <PackageReference Include="Microsoft.ServiceFabric.Tools.ReliabilitySimulator" Version="6.5.659-beta" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".\UserFullBackup\**" CopyToOutputDirectory="PreserveNewest" />
